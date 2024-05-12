@@ -21,7 +21,7 @@ app.get('/intensive-task', (req, res) => {
     })
 
     // let a = 0;
-    // for (let i = 0; i < 100_000_000_000; i++) {
+    // for (let i = 0; i < 100_000_000_00; i++) {
     //     a++;
     // }
     // res.send(`this is intensive taks ${a}`);
